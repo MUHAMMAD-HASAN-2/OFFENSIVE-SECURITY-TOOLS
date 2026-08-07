@@ -1,6 +1,0 @@
-Template 2
-Basic Template - Simple placeholder.
-Basic Template | Basic | Easy | Simple placeholder.
-Attribute Template | Attributes | Hard | Placeholder for attribute context.
-Encoded Template | Encoding | Medium | Placeholder for encoded output.
-Encoded Template | Encoding | Medium | Placeholder for encoded output.
